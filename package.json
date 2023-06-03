@@ -1,0 +1,10 @@
+{
+    "name": "infinity-scrolls",
+    "version": "1.0.0",
+    "dependencies": {
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "singleQuote": true
+    }
+}
